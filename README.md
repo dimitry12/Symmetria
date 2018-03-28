@@ -4,4 +4,5 @@ This is a set of tools to store, query, and visualize things exhibiting group-li
 
 - counts;
 - models;
-- hypotheses.
+- hypotheses;
+- financial derivatives.
